@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy for JustDoit
+---
+
 # Privacy Policy for JustDoit
 
 **Last updated: November 22, 2025**
