@@ -15,4 +15,4 @@ We do not collect, store, or share any of your personal data on our servers.
 - **Usage Data**: We may collect anonymous usage statistics (e.g., crash reports, logs) to improve the app, but this data cannot be used to identify you.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us via GitHub Issues: [\[GitHub Issues\]](https://github.com/sjpsega/my-apps/issues)
+If you have any questions about this Privacy Policy, please contact us via [\[GitHub Issues\]](https://github.com/sjpsega/my-apps/issues)
