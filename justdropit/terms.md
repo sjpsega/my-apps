@@ -1,10 +1,3 @@
-<!--
- * @Author: sjpsega
- * @Date: 2026-04-20 00:07:47
- * @LastEditors: sjpsega
- * @LastEditTime: 2026-04-20 00:13:22
- * @Description: 
--->
 ---
 layout: default
 title: Terms of Use for JustDropIt
