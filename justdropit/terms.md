@@ -21,16 +21,17 @@ The App also offers an optional auto-renewing subscription ("VIP") that unlocks 
 
 ### 2.1 Available Plans
 
-| Plan | Product ID | Price |
-|------|-----------|-------|
-| Monthly | `com.justdropit.vip.monthly` | approx. ¥18 / month |
-| Yearly | `com.justdropit.vip.yearly` | approx. ¥168 / year |
+| Plan | Price | Free Trial |
+|------|-------|------------|
+| Weekly | $2.99 / week | None |
+| Monthly | $7.99 / month | 7 days |
+| Yearly | $39.99 / year | 7 days |
 
 The exact price is displayed in your local currency on the in-app purchase screen at the time of purchase.
 
 ### 2.2 Auto-Renewal
 
-- Your subscription **automatically renews** at the end of each billing period (monthly or yearly) at the then-current price unless you cancel at least **24 hours before** the end of the current period.
+- Your subscription **automatically renews** at the end of each billing period (weekly, monthly, or yearly) at the then-current price unless you cancel at least **24 hours before** the end of the current period.
 - Your iTunes / App Store account will be **charged for renewal within 24 hours prior to** the end of the current period.
 - The renewal price is the same as the initial subscription price unless we notify you otherwise in advance.
 
