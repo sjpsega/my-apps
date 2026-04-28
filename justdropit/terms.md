@@ -92,4 +92,9 @@ These Terms are governed by the laws of the jurisdiction in which the developer 
 
 JustDropIt is independently developed and operated by an individual developer. There is no company entity behind the App.
 
-For questions, feedback, or concerns about these Terms, the App, or your subscription, please contact us through [GitHub Issues](https://github.com/sjpsega/my-apps/issues), which is our sole official support channel.
+For questions, feedback, or concerns about these Terms, the App, or your subscription, please contact us:
+
+- **Email**: sjpsega+justdropit@gmail.com
+- **GitHub Issues**: [https://github.com/sjpsega/my-apps/issues](https://github.com/sjpsega/my-apps/issues)
+
+We aim to respond to all inquiries within 48 hours.
