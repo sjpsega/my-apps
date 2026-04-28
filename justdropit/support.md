@@ -1,10 +1,3 @@
-<!--
- * @Author: sjpsega
- * @Date: 2026-04-28 12:03:15
- * @LastEditors: sjpsega
- * @LastEditTime: 2026-04-28 14:20:49
- * @Description: 
--->
 ---
 layout: default
 title: JustDropIt Support

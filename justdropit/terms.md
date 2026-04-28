@@ -94,7 +94,7 @@ JustDropIt is independently developed and operated by an individual developer. T
 
 For questions, feedback, or concerns about these Terms, the App, or your subscription, please contact us:
 
-- **Email**: sjpsega+justdropit@gmail.com
+- **Email**: [sjpsega+justdropit@gmail.com](mailto:sjpsega+justdropit@gmail.com)
 - **GitHub Issues**: [https://github.com/sjpsega/my-apps/issues](https://github.com/sjpsega/my-apps/issues)
 
 We aim to respond to all inquiries within 48 hours.

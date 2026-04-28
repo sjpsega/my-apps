@@ -56,7 +56,7 @@ We may update this Privacy Policy from time to time. If we make changes, we will
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Email**: sjpsega+justdropit@gmail.com
+- **Email**: [sjpsega+justdropit@gmail.com](mailto:sjpsega+justdropit@gmail.com)
 - **GitHub Issues**: [https://github.com/sjpsega/my-apps/issues](https://github.com/sjpsega/my-apps/issues)
 
 We aim to respond to all inquiries within 48 hours.
